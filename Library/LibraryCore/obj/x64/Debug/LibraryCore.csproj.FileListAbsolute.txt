@@ -1,0 +1,12 @@
+C:\Users\Admin\Desktop\TRPG\Library\LibraryCore\bin\x64\Debug\LibraryCore.dll
+C:\Users\Admin\Desktop\TRPG\Library\LibraryCore\bin\x64\Debug\LibraryCore.pdb
+C:\Users\Admin\Desktop\TRPG\Library\LibraryCore\bin\x64\Debug\Ninject.dll
+C:\Users\Admin\Desktop\TRPG\Library\LibraryCore\bin\x64\Debug\System.Data.SQLite.dll
+C:\Users\Admin\Desktop\TRPG\Library\LibraryCore\bin\x64\Debug\Ninject.xml
+C:\Users\Admin\Desktop\TRPG\Library\LibraryCore\bin\x64\Debug\System.Data.SQLite.xml
+C:\Users\Admin\Desktop\TRPG\Library\LibraryCore\bin\x64\Debug\System.Data.SQLite.dll.config
+C:\Users\Admin\Desktop\TRPG\Library\LibraryCore\obj\x64\Debug\LibraryCore.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\TRPG\Library\LibraryCore\obj\x64\Debug\LibraryCore.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\TRPG\Library\LibraryCore\obj\x64\Debug\LibraryCore.csproj.CopyComplete
+C:\Users\Admin\Desktop\TRPG\Library\LibraryCore\obj\x64\Debug\LibraryCore.dll
+C:\Users\Admin\Desktop\TRPG\Library\LibraryCore\obj\x64\Debug\LibraryCore.pdb

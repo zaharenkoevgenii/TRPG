@@ -1,0 +1,11 @@
+C:\Users\Admin\Desktop\TRPG\bin\Debug\LibraryViewer.exe.config
+C:\Users\Admin\Desktop\TRPG\bin\Debug\LibraryViewer.exe
+C:\Users\Admin\Desktop\TRPG\bin\Debug\LibraryViewer.pdb
+C:\Users\Admin\Desktop\TRPG\Library\Viewers\WPFViewer\obj\x64\Debug\WPFLibraryViewer.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\TRPG\Library\Viewers\WPFViewer\obj\x64\Debug\App.g.cs
+C:\Users\Admin\Desktop\TRPG\Library\Viewers\WPFViewer\obj\x64\Debug\LibraryViewer_MarkupCompile.cache
+C:\Users\Admin\Desktop\TRPG\Library\Viewers\WPFViewer\obj\x64\Debug\TRPG.Library.Viewers.WPF.Properties.Resources.resources
+C:\Users\Admin\Desktop\TRPG\Library\Viewers\WPFViewer\obj\x64\Debug\WPFLibraryViewer.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\TRPG\Library\Viewers\WPFViewer\obj\x64\Debug\WPFLibraryViewer.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\TRPG\Library\Viewers\WPFViewer\obj\x64\Debug\LibraryViewer.exe
+C:\Users\Admin\Desktop\TRPG\Library\Viewers\WPFViewer\obj\x64\Debug\LibraryViewer.pdb

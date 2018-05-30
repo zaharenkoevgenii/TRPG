@@ -1,0 +1,73 @@
+﻿<Window
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    x:Class="TRPG.Library.Viewers.LibraryViewer.LibraryWindow"
+    Title="LibraryControl" Height="450" Width="800">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="7*" />
+            <RowDefinition Height="35*" />
+        </Grid.RowDefinitions>
+        <Grid x:Name="Header" Grid.Row="0">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="2*" />
+                <RowDefinition Height="1*" />
+                <RowDefinition Height="2*" />
+                <RowDefinition Height="1*" />
+            </Grid.RowDefinitions>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="1*" />
+                <ColumnDefinition Width="1*" />
+                <ColumnDefinition Width="1*" />
+                <ColumnDefinition Width="1*" />
+                <ColumnDefinition Width="1*" />
+                <ColumnDefinition Width="1*" />
+                <ColumnDefinition Width="1*" />
+                <ColumnDefinition Width="1*" />
+            </Grid.ColumnDefinitions>
+            <Button x:Name="Items" Grid.Row="2" Grid.Column="0" Content="Items" />
+            <Button x:Name="Spells" Grid.Row="2" Grid.Column="1" Content="Spells" />
+            <Button x:Name="Creatures" Grid.Row="2" Grid.Column="2" Content="Creatures" />
+            <Button x:Name="Maps" Grid.Row="2" Grid.Column="3" Content="Maps" />
+            <Button x:Name="Scenarios" Grid.Row="2" Grid.Column="4" Content="Scenarios" />
+            <Button x:Name="Exit" Grid.Row="2" Grid.Column="7" Content="Exit" />
+        </Grid>
+        <Grid Grid.Row="1">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="1*" />
+                <ColumnDefinition Width="7*" />
+            </Grid.ColumnDefinitions>
+            <Grid x:Name="Sidebar" Grid.Column="0">
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="1*" />
+                    <RowDefinition Height="1*" />
+                    <RowDefinition Height="1*" />
+                    <RowDefinition Height="1*" />
+                    <RowDefinition Height="1*" />
+                    <RowDefinition Height="1*" />
+                    <RowDefinition Height="1*" />
+                    <RowDefinition Height="1*" />
+                    <RowDefinition Height="1*" />
+                    <RowDefinition Height="1*" />
+                    <RowDefinition Height="7*" />
+                </Grid.RowDefinitions>
+                <Button x:Name="Armors" Grid.Row="0" Grid.Column="0" Content="Armors" RenderTransformOrigin="1,0" />
+                <Button x:Name="Weapons" Grid.Row="1" Grid.Column="0" Content="Weapons" RenderTransformOrigin="1,0" />
+                <Button x:Name="Wealth" Grid.Row="2" Grid.Column="0" Content="Wealth" RenderTransformOrigin="1,0" />
+                <Button x:Name="Common" Grid.Row="3" Grid.Column="0" Content="Common" RenderTransformOrigin="1,0" />
+                <Button x:Name="Instruments" Grid.Row="4" Grid.Column="0" Content="Instruments"
+                        RenderTransformOrigin="1,0" />
+                <Button x:Name="Transport" Grid.Row="5" Grid.Column="0" Content="Transport" RenderTransformOrigin="1,0" />
+                <Button x:Name="Artifacts" Grid.Row="6" Grid.Column="0" Content="Artifacts" RenderTransformOrigin="1,0" />
+            </Grid>
+            <Grid x:Name="Mainfield" Grid.Column="1" Grid.Row="1">
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="1*" />
+                </Grid.RowDefinitions>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="1*" />
+                </Grid.ColumnDefinitions>
+            </Grid>
+        </Grid>
+    </Grid>
+</Window>

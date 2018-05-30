@@ -1,12 +1,10 @@
 ﻿using System.Collections.Generic;
 using System.Data.SQLite;
-using CommonTypes.DependencyResolver;
-using CommonTypes.Enums;
-using CommonTypes.Items.Armor;
-using Ninject;
-using Ninject.Parameters;
+using TRPG.Library.Items.Armors.Core.Enumerables;
+using TRPG.Library.Items.Armors.Core.Types;
+using TRPG.Library.Items.Armors.Core.Utilities;
 
-namespace ArmorEditor.DataStorage
+namespace TRPG.Library.Items.Armors.DataStorage
 {
     public static class DataStorage
     {
@@ -14,7 +12,8 @@ namespace ArmorEditor.DataStorage
         private const string DatabaseExtension = ".sqlite";
         private const string SqliteVersion = "3";
 
-        private static readonly string ConnectionString = $"Data Source={DatabaseName}{DatabaseExtension};Version={SqliteVersion};";
+        private static readonly string ConnectionString =
+            $"Data Source={DatabaseName}{DatabaseExtension};Version={SqliteVersion};";
 
         private static SQLiteCommand command;
         private static SQLiteConnection connection;
@@ -65,7 +64,9 @@ namespace ArmorEditor.DataStorage
                 command = connection.CreateCommand();
                 command.CommandText = $@"
                     INSERT INTO Armors (Id, Name, Type, Price, BaseArmor, MaxAgility,StrengthCap,StealthDisadvantage,Weight)
-                    VALUES ('{armor.Id}', '{armor.Name}', '{(int)armor.Type}', '{armor.Price}', '{armor.BaseArmor}', '{armor.MaxAgility}','{armor.StrengthCap}', '{armor.StealthDisadvantage}', '{armor.Weight}');";
+                    VALUES ('{armor.Id}', '{armor.Name}', '{(int) armor.Type}', '{armor.Price}', '{
+                        armor.BaseArmor
+                    }', '{armor.MaxAgility}','{armor.StrengthCap}', '{armor.StealthDisadvantage}', '{armor.Weight}');";
                 command.ExecuteNonQuery();
                 connection.Close();
             }
@@ -81,7 +82,7 @@ namespace ArmorEditor.DataStorage
                 var reader = myCommand.ExecuteReader();
                 while (reader.Read())
                 {
-                    var armor = DependencyResolver.ArmorEditorKernel.Get<IArmor>(new ConstructorArgument("id", (uint) reader.GetInt32(0)));
+                    var armor = ArmorFactory.CreateArmor((uint) reader.GetInt32(0));
                     armor.Name = reader.GetString(1);
                     armor.Type = (ArmorType) reader.GetInt32(2);
                     armor.Price = (ulong) reader.GetInt32(3);
@@ -112,8 +113,7 @@ namespace ArmorEditor.DataStorage
                 var reader = myCommand.ExecuteReader();
                 while (reader.Read())
                 {
-                    armor = DependencyResolver.ArmorEditorKernel.Get<IArmor>(
-                        new ConstructorArgument("id", (uint) reader.GetInt32(0)));
+                    armor = ArmorFactory.CreateArmor((uint) reader.GetInt32(0));
                     armor.Name = reader.GetString(1);
                     armor.Type = (ArmorType) reader.GetInt32(2);
                     armor.Price = (ulong) reader.GetInt32(3);

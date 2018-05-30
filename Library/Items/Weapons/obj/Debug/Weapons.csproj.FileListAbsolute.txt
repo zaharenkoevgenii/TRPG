@@ -1,0 +1,7 @@
+C:\Users\Admin\Desktop\TRPG\Library\Items\Weapons\obj\Debug\Weapons.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\TRPG\Library\Items\Weapons\obj\Debug\Weapons.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\TRPG\bin\Debug\Weapons.dll
+C:\Users\Admin\Desktop\TRPG\bin\Debug\Weapons.pdb
+C:\Users\Admin\Desktop\TRPG\Library\Items\Weapons\obj\Debug\Weapons.csproj.CopyComplete
+C:\Users\Admin\Desktop\TRPG\Library\Items\Weapons\obj\Debug\Weapons.dll
+C:\Users\Admin\Desktop\TRPG\Library\Items\Weapons\obj\Debug\Weapons.pdb

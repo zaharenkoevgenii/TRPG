@@ -1,0 +1,9 @@
+C:\Users\Admin\Desktop\TRPG\ManagementConsole\bin\x64\Debug\ManagementConsole.exe.config
+C:\Users\Admin\Desktop\TRPG\ManagementConsole\bin\x64\Debug\ManagementConsole.exe
+C:\Users\Admin\Desktop\TRPG\ManagementConsole\bin\x64\Debug\ManagementConsole.pdb
+C:\Users\Admin\Desktop\TRPG\ManagementConsole\bin\x64\Debug\LibraryCore.dll
+C:\Users\Admin\Desktop\TRPG\ManagementConsole\bin\x64\Debug\LibraryCore.pdb
+C:\Users\Admin\Desktop\TRPG\ManagementConsole\obj\x64\Debug\ManagementConsole.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\TRPG\ManagementConsole\obj\x64\Debug\ManagementConsole.csproj.CopyComplete
+C:\Users\Admin\Desktop\TRPG\ManagementConsole\obj\x64\Debug\ManagementConsole.exe
+C:\Users\Admin\Desktop\TRPG\ManagementConsole\obj\x64\Debug\ManagementConsole.pdb

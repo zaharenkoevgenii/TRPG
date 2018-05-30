@@ -1,0 +1,10 @@
+C:\Users\Admin\Desktop\TRPG\Library\LibraryCore\obj\Debug\Viewers\WPF\LibraryWindow.g.cs
+C:\Users\Admin\Desktop\TRPG\Library\LibraryCore\obj\Debug\LibraryCore_MarkupCompile.cache
+C:\Users\Admin\Desktop\TRPG\bin\Debug\LibraryCore.dll
+C:\Users\Admin\Desktop\TRPG\bin\Debug\LibraryCore.pdb
+C:\Users\Admin\Desktop\TRPG\Library\LibraryCore\obj\Debug\Viewers\WPF\LibraryWindow.baml
+C:\Users\Admin\Desktop\TRPG\Library\LibraryCore\obj\Debug\LibraryCore.g.resources
+C:\Users\Admin\Desktop\TRPG\Library\LibraryCore\obj\Debug\LibraryCore.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\TRPG\Library\LibraryCore\obj\Debug\LibraryCore.csproj.CopyComplete
+C:\Users\Admin\Desktop\TRPG\Library\LibraryCore\obj\Debug\LibraryCore.dll
+C:\Users\Admin\Desktop\TRPG\Library\LibraryCore\obj\Debug\LibraryCore.pdb
