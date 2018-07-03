@@ -1,9 +1,0 @@
-C:\Users\Admin\Desktop\TRPG\Library\Items\Weapons\bin\x64\Debug\Weapons.dll
-C:\Users\Admin\Desktop\TRPG\Library\Items\Weapons\bin\x64\Debug\Weapons.pdb
-C:\Users\Admin\Desktop\TRPG\Library\Items\Weapons\bin\x64\Debug\LibraryCore.dll
-C:\Users\Admin\Desktop\TRPG\Library\Items\Weapons\bin\x64\Debug\LibraryCore.pdb
-C:\Users\Admin\Desktop\TRPG\Library\Items\Weapons\obj\x64\Debug\Weapons.csprojAssemblyReference.cache
-C:\Users\Admin\Desktop\TRPG\Library\Items\Weapons\obj\x64\Debug\Weapons.csproj.CoreCompileInputs.cache
-C:\Users\Admin\Desktop\TRPG\Library\Items\Weapons\obj\x64\Debug\Weapons.csproj.CopyComplete
-C:\Users\Admin\Desktop\TRPG\Library\Items\Weapons\obj\x64\Debug\Weapons.dll
-C:\Users\Admin\Desktop\TRPG\Library\Items\Weapons\obj\x64\Debug\Weapons.pdb

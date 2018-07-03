@@ -1,9 +1,7 @@
-C:\Users\Admin\Desktop\TRPG\ManagementConsole\bin\x64\Debug\ManagementConsole.exe.config
-C:\Users\Admin\Desktop\TRPG\ManagementConsole\bin\x64\Debug\ManagementConsole.exe
-C:\Users\Admin\Desktop\TRPG\ManagementConsole\bin\x64\Debug\ManagementConsole.pdb
-C:\Users\Admin\Desktop\TRPG\ManagementConsole\bin\x64\Debug\LibraryCore.dll
-C:\Users\Admin\Desktop\TRPG\ManagementConsole\bin\x64\Debug\LibraryCore.pdb
-C:\Users\Admin\Desktop\TRPG\ManagementConsole\obj\x64\Debug\ManagementConsole.csproj.CoreCompileInputs.cache
-C:\Users\Admin\Desktop\TRPG\ManagementConsole\obj\x64\Debug\ManagementConsole.csproj.CopyComplete
-C:\Users\Admin\Desktop\TRPG\ManagementConsole\obj\x64\Debug\ManagementConsole.exe
-C:\Users\Admin\Desktop\TRPG\ManagementConsole\obj\x64\Debug\ManagementConsole.pdb
+C:\Users\zahar\Desktop\Новая папка\TRPG\ManagementConsole\bin\x64\Debug\ManagementConsole.exe.config
+C:\Users\zahar\Desktop\Новая папка\TRPG\ManagementConsole\bin\x64\Debug\ManagementConsole.exe
+C:\Users\zahar\Desktop\Новая папка\TRPG\ManagementConsole\bin\x64\Debug\ManagementConsole.pdb
+C:\Users\zahar\Desktop\Новая папка\TRPG\ManagementConsole\obj\x64\Debug\ManagementConsole.csprojAssemblyReference.cache
+C:\Users\zahar\Desktop\Новая папка\TRPG\ManagementConsole\obj\x64\Debug\ManagementConsole.csproj.CoreCompileInputs.cache
+C:\Users\zahar\Desktop\Новая папка\TRPG\ManagementConsole\obj\x64\Debug\ManagementConsole.exe
+C:\Users\zahar\Desktop\Новая папка\TRPG\ManagementConsole\obj\x64\Debug\ManagementConsole.pdb
